@@ -43,6 +43,9 @@ public class OOTabungan {
         int jumlah = 0;
         oo.tabungan(saldo);
         oo.ambilUang(jumlah);
+        
+        System.out.pritnln();
+        System.out.println("by. Fiona Avila");
     }
     
 }
